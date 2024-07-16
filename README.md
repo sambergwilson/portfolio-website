@@ -28,4 +28,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Video of the Project 
 
-[![Portfolio-Proj]("C:\Users\wilso\Downloads\Portfolio-Proj.mp4" "Portfolio-Proj")]
+https://github.com/user-attachments/assets/a6317b5b-e928-4aec-9d01-1cfee1f9a8f2
+
